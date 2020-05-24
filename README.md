@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/Ronny-22-Code/Heart-Disease-Prediction-using-Machine-Learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Among various life-threatening diseases, heart disease has garnered a great deal of attention in medical research. The diagnosis of heart disease is a challenging task, which can offer an automated prediction about the heart condition of the patient so that further treatment can be made effective. The diagnosis of heart disease is usually based on signs, symptoms, and physical examination of the patient. There are several factors that increase the risk of heart diseases, such as smoking habits, body cholesterol level, family history of heart disease, obesity, high blood pressure, and lack of physical exercise.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ronny-22-Code/Heart-Disease-Prediction-using-Machine-Learning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This project was implemented and executed by applying the KNN algorithm with a recognition accuracy of around 85.06%. The desired results have been obtained by training the machine learning model first using 67% of the heart_disease_train data-set and later testing the model by remaining 33% of dataset and the results are obtained successfully. Concludes, that around 85.06% of patients with the symptoms as according to the dataset would suffer from heart diseases. 
