@@ -12,5 +12,43 @@ Heart disease describes a range of conditions that affect your heart. Diseases u
 
 This project was implemented and executed by applying the KNN algorithm with a recognition accuracy of around 85.06%. The desired results have been obtained by training the machine learning model first using 67% of the heart_disease_train data-set and later testing the model by remaining 33% of dataset and the results are obtained successfully. Concludes, that around 85.06% of patients with the symptoms as according to the dataset would suffer from heart diseases. 
 
+# Screenshots 
+
+![Screenshot-1](https://user-images.githubusercontent.com/46643368/82813053-f086fd80-9eb1-11ea-8a11-ea3ec2fba9e7.png)
+
+
+![Screenshot-2](https://user-images.githubusercontent.com/46643368/82813173-2b893100-9eb2-11ea-8a80-fe4df6d2497e.png)
+
+
+![Screenshot-3](https://user-images.githubusercontent.com/46643368/82813319-6f7c3600-9eb2-11ea-9be6-809d07d1f41c.png)
+
+
+![Screenshot-4](https://user-images.githubusercontent.com/46643368/82813338-7b67f800-9eb2-11ea-8b79-73703328f661.png)
+
+
+![Screenshot-5](https://user-images.githubusercontent.com/46643368/82813362-87ec5080-9eb2-11ea-87e8-1b60adf572c3.png)
+
+
+![Screenshot-6](https://user-images.githubusercontent.com/46643368/82813396-989cc680-9eb2-11ea-993b-b00a855f747d.png)
+
+
+![Screenshot-7](https://user-images.githubusercontent.com/46643368/82813419-a4888880-9eb2-11ea-8543-d53f933c15ba.png)
+
+
+![Screenshot-8)](https://user-images.githubusercontent.com/46643368/82813456-bc600c80-9eb2-11ea-8a17-d9c7ff81140f.png)
+
+
+![Screenshot-9](https://user-images.githubusercontent.com/46643368/82813492-cc77ec00-9eb2-11ea-9ec6-e1d1087f0bfe.png)
+
+
+![Screenshot-10](https://user-images.githubusercontent.com/46643368/82813520-dc8fcb80-9eb2-11ea-84e3-49496f268b8d.png)
+
+
+![Screenshot-11](https://user-images.githubusercontent.com/46643368/82813579-f6311300-9eb2-11ea-9c0d-d1eea8c456a7.png)
+
+
+
+
+
 
 
