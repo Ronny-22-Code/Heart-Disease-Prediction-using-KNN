@@ -40,9 +40,11 @@ This project was implemented and executed by applying the KNN algorithm with a r
 
 ![Screenshot-9](https://user-images.githubusercontent.com/46643368/82813492-cc77ec00-9eb2-11ea-9ec6-e1d1087f0bfe.png)
 
+## Data Analysis
 
 ![Screenshot-10](https://user-images.githubusercontent.com/46643368/82813520-dc8fcb80-9eb2-11ea-84e3-49496f268b8d.png)
 
+## Output
 
 ![Screenshot-11](https://user-images.githubusercontent.com/46643368/82813579-f6311300-9eb2-11ea-9c0d-d1eea8c456a7.png)
 
